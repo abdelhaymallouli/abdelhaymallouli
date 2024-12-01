@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdelhay Mallouli</h1>
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Abdelhay(Mallouli))" title="👋 Hi there! I'm (Abdelhay(Mallouli))"/>]
 <h3 align="center">Aspiring Software Developer | Web Developer | Graphic Designer</h3>
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=abdelhaymallouli&label=Profile%20views&color=0e75b6&style=flat" alt="abdelhaymallouli" /> 
