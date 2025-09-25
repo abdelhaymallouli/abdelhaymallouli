@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Abdelhay Mallouli</h1>
-<h3 align="center">Aspiring Software Developer | Web Developer | Graphic Designer</h3>
+<h3 align="center">Aspiring Software Developer | Web Developer</h3>
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=abdelhaymallouli&label=Profile%20views&color=0e75b6&style=flat" alt="abdelhaymallouli" /> 
 </p>
 <ul>
-    <li>🌱 I’m currently learning <strong>React</strong></li>
+    <li>🌱 I’m currently learning <strong>Laravel</strong></li>
     <li>👨‍💻 All of my projects are available at <a href="https://github.com/abdelhaymallouli">GitHub</a></li>
     <li>📫 How to reach me: <strong>abdelhay.mallouli@gmail.com</strong></li>
 </ul>
