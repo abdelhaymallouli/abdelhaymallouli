@@ -5,7 +5,7 @@
 </p>
 <ul>
     <li>🌱 I’m currently learning <strong>Next Js</strong></li>
-    <li>👨‍💻 All of my projects are available at <a href="https://github.com/abdelhaymallouli">GitHub</a></li>
+    <li>👨‍💻 All of my projects are available at <a href="https://www.abdelhaymallouli.com/">Portfolio</a></li>
     <li>📫 How to reach me: <strong>abdelhay.mallouli@gmail.com</strong></li>
 </ul>
 
